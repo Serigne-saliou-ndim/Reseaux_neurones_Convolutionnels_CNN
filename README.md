@@ -8,12 +8,12 @@ Vous pouvez télécharger les images pour chaque classe à partir de l'ensemble 
 
 
 
-- [Humain (wnid: n00007846)](https://image-net.org/data/winter21_whole/n00007846.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n00007846.tar)
-- [Chat Domestique (wnid: n02123597)](https://image-net.org/data/winter21_whole/n02123597.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n02123597.tar)
-- [Souris (wnid: n02352591)](https://image-net.org/data/winter21_whole/n02352591.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n02352591.tar)
-- [Maison (wnid: n03544360)](https://image-net.org/data/winter21_whole/n03544360.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n03544360.tar)
-- [Poule (wnid: n01514859)](https://image-net.org/data/winter21_whole/n01514859.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n01514859.tar)
-- [Coq (wnid: n01514668)](https://image-net.org/data/winter21_whole/n01514668.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n01514668.tar)
+- [Humain (wnid: n00007846)](https://image-net.org/data/winter21_whole/n00007846.tar) 
+- [Chat Domestique (wnid: n02123597)](https://image-net.org/data/winter21_whole/n02123597.tar) 
+- [Souris (wnid: n02352591)](https://image-net.org/data/winter21_whole/n02352591.tar)
+- [Maison (wnid: n03544360)](https://image-net.org/data/winter21_whole/n03544360.tar)
+- [Poule (wnid: n01514859)](https://image-net.org/data/winter21_whole/n01514859.tar)
+- [Coq (wnid: n01514668)](https://image-net.org/data/winter21_whole/n01514668.tar)
 
 
 Objectifs
