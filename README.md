@@ -6,13 +6,18 @@ Téléchargement des Images ImageNet
 
 Vous pouvez télécharger les images pour chaque classe à partir de l'ensemble de données ImageNet en utilisant les liens suivants :
 
-Humain (wnid: n00007846)
-Chat Domestique (wnid: n02123597)
-Souris (wnid: n02352591)
-Maison (wnid: n03544360)
-Poule (wnid: n01514859)
-Coq (wnid: n01514668)
+
+
+- [Humain (wnid: n00007846)](https://image-net.org/data/winter21_whole/n00007846.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n00007846.tar)
+- [Chat Domestique (wnid: n02123597)](https://image-net.org/data/winter21_whole/n02123597.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n02123597.tar)
+- [Souris (wnid: n02352591)](https://image-net.org/data/winter21_whole/n02352591.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n02352591.tar)
+- [Maison (wnid: n03544360)](https://image-net.org/data/winter21_whole/n03544360.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n03544360.tar)
+- [Poule (wnid: n01514859)](https://image-net.org/data/winter21_whole/n01514859.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n01514859.tar)
+- [Coq (wnid: n01514668)](https://image-net.org/data/winter21_whole/n01514668.tar) - Téléchargement via [lien](https://image-net.org/data/winter21_whole/n01514668.tar)
+
+
 Objectifs
+
 Les principaux objectifs de ce projet sont les suivants :
 
 Télécharger et organiser les images à partir d'ImageNet pour chaque classe spécifique.
@@ -20,30 +25,6 @@ Prétraiter les données en éliminant les images de mauvaise qualité et en les
 Fournir une structure de répertoire claire pour faciliter l'utilisation des données.
 Créer un ensemble de données étiqueté pour la reconnaissance d'objets, prêt à être utilisé pour l'entraînement de modèles de réseaux de neurones convolutionnels (CNN).
 
-Structure du Répertoire
-La structure du répertoire du projet est organisée comme suit :
-
-Reseaux_neurones_Convolutionnels_CNN/
-│
-├── dataset_ImageNet/
-│   ├── humain/
-│   │   ├── ... (images)
-│   ├── chat_domestique/
-│   │   ├── ... (images)
-│   ├── Souris/
-│   │   ├── ... (images)
-│   ├── maison/
-│   │   ├── ... (images)
-│   ├── poule/
-│   │   ├── ... (images)
-│   ├── coq/
-│       ├── ... (images)
-│
-├── chargementimagenet.py
-├── presentationDonne.py
-├── README.md
-│
-└── ... (autres fichiers et scripts)
 
 Prérequis
 Python 3
